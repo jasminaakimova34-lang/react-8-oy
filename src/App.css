@@ -1,0 +1,228 @@
+img {
+    width: 200px;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+
+}
+
+li {
+    font-family: Inter;
+    font-weight: 500px;
+    font-style: Medium;
+    font-size: 17px;
+
+}
+
+header {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+}
+
+button {
+    font-family: Inter;
+    font-weight: 500px;
+    font-style: Medium;
+    font-size: 17px;
+
+
+    width: 130px;
+    height: 40px;
+    border-radius: 2px;
+    background-color: #4CAF4F;
+    color: white;
+    border: none;
+}
+
+a {
+    width: 400px;
+
+    font-family: Inter;
+    font-weight: 600px;
+    font-style: Semi Bold;
+    font-size: 75px;
+    text-decoration: none;
+}
+
+.text1 {
+    display: block;
+    width: 500px;
+    color: black;
+    font-size: 55px;
+    text-decoration: none;
+    padding-bottom: 10px;
+}
+
+.text2 {
+    font-family: Inter;
+    font-weight: 600px;
+    font-style: Semi Bold;
+    font-size: 55px;
+    line-height: 26px;
+    color: #4CAF4F;
+    text-decoration: none;
+    padding-bottom: 10px;
+}
+
+.text3 {
+    color: #717171;
+    font-family: Inter;
+    font-weight: 400px;
+    font-style: Regular;
+    font-size: 17px;
+    padding-bottom: 20px;
+
+}
+
+.btn {
+    width: 100px;
+    color: white;
+    font-size: 17px;
+
+}
+
+.logo1 {
+    width: 300px;
+}
+
+.parent1 {
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+}
+
+.parent2 {
+    display: flex;
+    justify-content: space-around;
+}
+
+main {
+    display: flex;
+    justify-content: space-around;
+    margin: 60px;
+}
+
+.text4 {
+    font-family: Inter;
+    font-weight: 600px;
+    font-style: Semi Bold;
+    font-size: 30px;
+    text-align: center;
+    color: #4D4D4D;
+
+}
+
+.text5 {
+    font-family: Inter;
+    font-weight: 500px;
+    font-style: Regular;
+    font-size: 17px;
+    text-align: center;
+    color: #717171;
+
+}
+
+.rasmlar {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 50px;
+}
+
+.rasm {
+    width: 40px;
+}
+
+.text6 {
+    width: 370px;
+    font-family: Inter;
+    font-weight: 800px;
+    font-style: Semi Bold;
+    font-size: 29px;
+    text-align: center;
+    color: #4D4D4D;
+    text-align: center;
+    margin-left: 570px;
+    margin-bottom: 50px;
+}
+
+.icon1 {
+    width: 50px;
+    padding-left: 150px;
+    padding-top: 20px;
+}
+
+.member {
+    font-family: Inter;
+    font-weight: 700px;
+    font-style: Bold;
+    font-size: 25px;
+    line-height: 25px;
+    color: #4D4D4D;
+    text-align: center;
+    padding-bottom: 10px;
+
+}
+
+.our {
+    width: 280px;
+    font-family: Inter;
+    font-weight: 400px;
+    font-style: Regular;
+    font-size: 17px;
+    line-height: 25px;
+    color: #717171;
+    text-align: center;
+    padding-left: 20px;
+
+
+}
+
+.icon {
+    background-color: #FFFFFF;
+    box-shadow: 0px 0.67px 1.34px 0px #ABBED133;
+    width: 350px;
+    height: 290px;
+    margin: 100px;
+
+
+}
+
+.card {
+    display: flex;
+    justify-content: space-around;
+}
+
+.of {
+    width: 390px;
+    font-family: Inter;
+    font-weight: 600px;
+    font-style: Semi Bold;
+    font-size: 30px;
+    line-height: 25px;
+    color: #4D4D4D;
+
+}
+
+.lorem {
+    width: 390px;
+    font-family: Inter;
+    font-weight: 400px;
+    font-style: Regular;
+    font-size: 17px;
+    line-height: 17px;
+
+}
+
+.logo10{
+    width: 400px;
+}
+
+.right{
+    display: flex;
+    justify-content: space-around;
+}
